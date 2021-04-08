@@ -1,0 +1,112 @@
+body {
+    border: 4px solid black;
+}
+header {
+    height: 260px;
+    background-color: #800000;
+}
+#intro-div {
+    width: 50%;
+    height: 150px;
+    float: left;
+}
+#university-name-div {
+    margin-top: 100px;
+    padding-left: 20px;
+    color: cornsilk;
+}
+#uni-logo {
+    width: 50%;
+    height: 150px;
+    float: right;
+}
+#uni-logo-img {
+    padding: 10px;
+    height: 100%;
+    width: auto;
+    float: right;
+}
+#name-n-affiation {
+    width: 40%;
+    float: left;
+    margin-top: 30px;
+    padding-left: 50px;
+    color: cornsilk;
+}
+#name-header {
+    margin-bottom: 0px;
+}
+#nav-div {
+    width: 50%;
+    float: right;
+    margin-top: 70px;
+}
+#nav {
+    float: right;
+    padding: 10px;
+}
+#nav-item {
+    color: cornsilk;
+    padding-right: 4px;
+    padding-left: 3px;
+    text-decoration: none;
+    border-right: 1px solid white;
+}
+#nav-item1 {
+    color: cornsilk;
+    padding-right: 3px;
+    padding-left: 3px;
+    text-decoration: none;
+}
+#main {
+    height: 350px;
+}
+#recent {
+    width: 50%;
+    float: left;
+}
+#about-me {
+    margin-left: 30px;
+}
+#news-publications {
+    margin-left: 30px;
+}
+#news-list {
+    margin-left: 30px;
+}
+#photo-n-contact {
+    width: 50%;
+    float: right;
+}
+#photo {
+    width: 220px;
+    height: 220px;
+    float: right;
+    padding: 10px;
+}
+#contact-information-div {
+    width: 100%;
+    float: left;
+}
+#contact-information {
+    float: right;
+    /* clear: right; */
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#contact-header {
+    text-align: center;
+    margin-top: -5px;
+}
+#contact-info-item {
+    margin-top: -5px;
+    font-size: 10pt;
+}
+#footer {
+    height: 40px;
+    background-color: #800000;
+}
+#nav-footer {
+    float: right;
+    padding: 10px;
+}
